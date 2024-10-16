@@ -8,11 +8,13 @@
 		<version>3.3.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.neo4j_ecom</groupId>
+
+	<groupId>com.accessed</groupId>
 	<artifactId>accessed-ecommerce-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Accessed Ecommerce Service</name>
 	<description>Enterprise Ecommerce</description>
+	<packaging>war</packaging>
 	<url/>
 	<licenses>
 		<license/>
