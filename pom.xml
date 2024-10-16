@@ -11,8 +11,8 @@
 	<groupId>com.neo4j_ecom</groupId>
 	<artifactId>accessed-accessed-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>Accessed Ecommerce Service</name>
+	<description>Enterprise Ecommerce</description>
 	<url/>
 	<licenses>
 		<license/>
