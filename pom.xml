@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
-	<groupId>com.accessed</groupId>
+	<groupId>com.accessed.ecommerce-service</groupId>
 	<artifactId>accessed-ecommerce-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Accessed Ecommerce Service</name>
