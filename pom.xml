@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.neo4j_ecom</groupId>
-	<artifactId>accessed-accessed-service</artifactId>
+	<artifactId>accessed-ecommerce-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Accessed Ecommerce Service</name>
 	<description>Enterprise Ecommerce</description>
