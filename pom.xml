@@ -9,25 +9,12 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
+	<name>Accessed Ecommerce Service</name>
 	<groupId>com.accessed</groupId>
 	<artifactId>accessed-ecommerce-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Accessed Ecommerce Service</name>
-	<description>Enterprise Ecommerce</description>
 	<packaging>war</packaging>
-	<url/>
-	<licenses>
-		<license/>
-	</licenses>
-	<developers>
-		<developer/>
-	</developers>
-	<scm>
-		<connection/>
-		<developerConnection/>
-		<tag/>
-		<url/>
-	</scm>
+	
 	<properties>
 		<java.version>21</java.version>
 	</properties>
